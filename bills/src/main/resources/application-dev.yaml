@@ -1,0 +1,8 @@
+muy:
+  database:
+    host: localhost
+    username: root
+    password: 114514
+spring:
+  application:
+    name: bills
